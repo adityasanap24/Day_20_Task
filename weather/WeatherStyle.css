@@ -1,0 +1,24 @@
+.card {
+  color: white;
+  background-image: linear-gradient(
+      180deg,
+      rgba(0, 0, 0, 0.2),
+      rgba(0, 0, 0, 0.6)
+    ),
+    url("https://feeds.abplive.com/onecms/images/uploaded-images/2021/09/07/e899ff058db6d305a1713dc5afa68bbc_original.jpg");
+
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  visibility: hidden;
+}
+h1,
+h2 {
+  font-family: "Anton", sans-serif;
+}
+h5,
+h3,
+input,
+button {
+  font-family: "Poppins", sans-serif;
+}
