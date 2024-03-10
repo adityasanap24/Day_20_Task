@@ -1,0 +1,17 @@
+img {
+  height: 650px;
+  width: 100%;
+  border-radius: 15px;
+  box-shadow: 10px 10px rgb(217 217 217 / 30%);
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+.flex-center {
+  align-items: center;
+  justify-content: center;
+  display: flex;
+}
+h2 {
+  font-family: "Anton", sans-serif;
+}
